@@ -1,18 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nihad%20Sahir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Network%20%26%20Cybersecurity%20Engineering%20Student&descAlignY=58&descColor=a0c4ff"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nihad+Sahir;Network+%26+Cybersecurity+Engineer;Always+learning%2C+always+building)](https://git.io/typing-svg)
+
+<p>
+Final-year engineering student passionate about <strong>cybersecurity</strong>, <strong>network monitoring</strong> and <strong>system security</strong>.<br/>
+Currently seeking a Final Year Internship (PFE) — 2025/2026 · Tanger, Morocco
+</p>
 
 </div>
-
----
-
-### 👩‍💻 About Me
-```txt
-🎓  Final-year Engineering Student — Telecom & Network Systems (GSTR), ENSA Tanger
-🛡️  Passionate about Cybersecurity, SOC Operations & Network Infrastructure
-🔍  Actively seeking a Final Year Internship (PFE) — 2025/2026
-📍  Tanger, Morocco
-```
 
 ---
 
@@ -80,16 +75,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nihad%20Sahir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihad-sahir-6217582b7/)
+<a href="https://www.linkedin.com/in/nihad-sahir-6217582b7/">
+  <img src="https://img.shields.io/badge/-Nihad%20Sahir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-nihadsh518%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nihadsh518@gmail.com)
+<a href="mailto:nihadsh518@gmail.com">
+  <img src="https://img.shields.io/badge/-nihadsh518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-nihad03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihad03)
+<a href="https://github.com/nihad03">
+  <img src="https://img.shields.io/badge/-nihad03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
 </div>
