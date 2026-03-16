@@ -2,12 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nihad+Sahir;Network+%26+Cybersecurity+Engineer;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-<p>
-Final-year engineering student passionate about <strong>cybersecurity</strong>, <strong>network monitoring</strong> and <strong>system security</strong>.<br/>
-Currently seeking a Final Year Internship (PFE) — 2025/2026 · Tanger, Morocco
-</p>
-
 </div>
+
+Final-year engineering student passionate about **cybersecurity**, **network monitoring** and **system security**.
+Currently seeking a Final Year Internship (PFE) — 2025/2026 · Tanger, Morocco
 
 ---
 
@@ -73,18 +71,14 @@ Currently seeking a Final Year Internship (PFE) — 2025/2026 · Tanger, Morocco
 
 ### 🤝 Connect with Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nihad-sahir-6217582b7/">
-  <img src="https://img.shields.io/badge/-Nihad%20Sahir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nihad-sahir-6217582b7/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32" height="32" style="filter:invert(29%)sepia(93%)saturate(1234%)hue-rotate(191deg)brightness(96%)contrast(101%)"/>
 </a>
-&nbsp;
-<a href="mailto:nihadsh518@gmail.com">
-  <img src="https://img.shields.io/badge/-nihadsh518%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="mailto:nihadsh518@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="32" height="32" style="filter:invert(27%)sepia(89%)saturate(1652%)hue-rotate(346deg)brightness(97%)contrast(97%)"/>
 </a>
-&nbsp;
-<a href="https://github.com/nihad03">
-  <img src="https://img.shields.io/badge/-nihad03-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://github.com/nihad03" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="32" height="32" style="filter:invert(10%)sepia(10%)saturate(500%)hue-rotate(180deg)brightness(90%)contrast(90%)"/>
 </a>
-
-</div>
